@@ -2,7 +2,7 @@
 "data" : {
 "enter" :
 {
-     "ads" : "admob",
+     "ads" : "max",
      "BannerAdmob" :"ca-app-pub-9988521094839767/5792936478",
      "IntersAdmob" :"ca-app-pub-9988521094839767/3166773136",
      "NativeAdmob" :"ca-app-pub-9988521094839767/6914446456",
